@@ -40,10 +40,5 @@ This repository contains the manual testing deliverables for **WafiCommerce**, a
 
 ---
 
-## **Author**
-👤 **[Your Name]**  
-✉️ **[Your Email]**  
-📅 **Internship Assignment Submission**  
 
-📌 *Feel free to contribute or reach out for clarifications!* 🚀
 
